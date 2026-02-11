@@ -461,10 +461,10 @@ intor-translator@1.4.13:
   dependencies:
     rura "^1.0.8"
 
-intor@^2.4.5:
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/intor/-/intor-2.4.5.tgz#4618ecb6cbf214c434f84a0b7fbd844763af7c59"
-  integrity sha512-KrjgQa5NhvLvxErIv76SXIRWKmBhiGC6TQOJluKI5FKpx9rzzQmAeHKYvV484rb24ET7Dsg1TEcFya5t5QjfqQ==
+intor@^2.4.7:
+  version "2.4.7"
+  resolved "https://registry.yarnpkg.com/intor/-/intor-2.4.7.tgz#d3426b82e27af2c9f442f2f6df87298f6e15647d"
+  integrity sha512-V5hDBPRWwTk9kEf+z7DIqZXBTgNq2W7R/oYNlBIC/FTYfpOyBU9YnLaE9WjnrRFNSdlDLYSIE9Cear57ayT3FA==
   dependencies:
     intor-translator "1.4.13"
     logry "2.1.6"
